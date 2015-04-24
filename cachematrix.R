@@ -1,6 +1,6 @@
-# Finding a matrix inverse may turn to be a costly computation, so it may turn out to be 
-# beneficial to cache the inverse of a amtrix rather than computing it over and over again
-# This .R file contains a pair of functions that cache the inverse of a matrix.
+# Finding a matrix inverse may turn to be a costly computation, so it may be 
+# beneficial to cache the inverse of a matrix rather than computing it over and over again
+# This .R code contains a pair of functions that cache the inverse of a matrix.
 
 ## The function creates a special "matrix" object that can cache its inverse.
 
